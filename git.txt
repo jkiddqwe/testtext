@@ -1,0 +1,6 @@
+git status - проверка статуса
+git init - иницилизация git каталога 
+git add .
+git commit -m 'start'
+git show - посмотреть про статус комитов
+git log - просмотреть всех коммитов
